@@ -10,6 +10,7 @@
 </ul>
 
 ## Tecnologias e Ferramentas
+<br>
 <div>
   <img alt="Git" height="50" width="50" style="margin-right: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   &nbsp
