@@ -9,7 +9,7 @@
   <li>🎮 E também passo parte do tempo livre em jogos.</li>
 </ul>
 
-## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas 🧰
 <br>
 <div>
   <img alt="Git" height="50" width="50" style="margin-right: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -39,7 +39,7 @@
   <img alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-## GitHub Stats
+## GitHub Stats 📈
 <table>
   <tr>
     <td>
@@ -55,7 +55,7 @@
   </tr>
 </table>
 
-## Contato
+## Contato 📮
 <div>
   <a href="https://www.linkedin.com/in/reemoreno/" target="_blank" style="margin_right: 100px">
     <img width="40px" alt="linkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
