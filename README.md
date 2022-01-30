@@ -1,4 +1,4 @@
-### Olá, bem-vindo(a) ao meu perfil! 👋
+# Olá, bem-vindo(a) ao meu perfil! 👋
 
 <p>Meu nome é Renato Moreno Corrêa, sou formado em Administração e sempre fui apaixonado por tecnologia, sendo assim decidi trocar de carreira e começar a estudar sobre desenvolvimento web na Trybe :rocket: com objetivo de me tornar um <b>Desenvolvedor Full Stack</b>.</p>
 
