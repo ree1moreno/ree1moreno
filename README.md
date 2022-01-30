@@ -12,21 +12,29 @@
 ## Tecnologias e Ferramentas
 <div>
   <img alt="Git" height="50" width="50" style="margin-right: 100px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-  <img alt="Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-
-  <img alt="Css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-
+  &nbsp
+  &nbsp
+  <img alt="Html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  &nbsp
+  &nbsp
+  <img alt="Css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  &nbsp
+  &nbsp
   <img alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-  <img alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-
+  &nbsp
+  &nbsp
+  <img alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  &nbsp
+  &nbsp
   <img alt="Redux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-
+  &nbsp
+  &nbsp
   <img alt="Jest" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-
+  &nbsp
+  &nbsp
   <img alt="MySql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-
+  &nbsp
+  &nbsp
   <img alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
@@ -51,7 +59,8 @@
   <a href="https://www.linkedin.com/in/reemoreno/" target="_blank" style="margin_right: 100px">
     <img width="40px" alt="linkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-
+  &nbsp
+  &nbsp
   <a href="mailto:renats.mc@gmail.com" target="_blank">
     <img width="40px" alt="gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   </a>
