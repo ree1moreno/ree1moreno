@@ -2,6 +2,7 @@
 
 Meu nome é Renato Moreno Corrêa, sou formado em Administração e sempre fui apaixonado por tecnologia, sendo assim decidi trocar de carreira e começar a estudar sobre desenvolvimento web na Trybe :rocket:, com objetivo de me tornar um <b>Desenvolvedor Full Stack</b>.
 
+<div>
 💻 Muito animado e dedicado em evoluir os conhecimentos para essa transição de carreira.
 <br>
 📖 Atualmente focado nos estudos, afinal tudo nessa área é novidade para mim.
@@ -10,8 +11,10 @@ Meu nome é Renato Moreno Corrêa, sou formado em Administração e sempre fui a
 <br>
 🎮 E também passo parte do tempo livre em jogos.
 <br>
+</div>
+<br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ree1moreno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ree1moreno&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ree1moreno&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
