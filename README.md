@@ -14,13 +14,22 @@ Meu nome é Renato Moreno Corrêa, sou formado em Administração e sempre fui a
 </div>
 <br>
 
-<div>
-  <a href="https://github.com/ree1moreno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ree1moreno&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ree1moreno&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-
-
+## GitHub Stats
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ree1moreno" rel="noopener noreferrer" target="_blank">
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ree1moreno&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ree1moreno" rel="noopener noreferrer" target="_blank" target="_blank">
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ree1moreno&layout=compact&langs_count=7&theme=vision-friendly-dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+  
 <!--
 **ree1moreno/ree1moreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
