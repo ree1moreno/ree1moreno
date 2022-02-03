@@ -57,12 +57,10 @@
 
 ## Contato 📮
 <div>
-  <a href="https://www.linkedin.com/in/reemoreno/" target="_blank" style="margin_right: 100px">
-    <img width="40px" alt="linkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  &nbsp
-  &nbsp
-  <a href="mailto:renats.mc@gmail.com" target="_blank">
-    <img width="40px" alt="gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
-  </a>
+  <img width="15px" alt="linkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <a href="https://www.linkedin.com/in/reemoreno/">LinkedIn</a>
+  <br>
+  <img width="15px" alt="gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+  <a href="mailto: renats.mc@gmail.com">Email</a>
+
 </div>
